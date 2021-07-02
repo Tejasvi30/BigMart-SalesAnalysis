@@ -7,14 +7,12 @@ and BigMart will try to understand the properties of products and stores which p
 **Criteria for success:**
 
 1.Find out store size affects the outlet sales.
-
 2.Find out Location of store affects the sales. 
-
 3.Impact of item fat content on outlet sales
-Find out the sales of all outlet. 
-Impact of Item type on sales.
-Find out item visibility impact the outlet sales.
-Impact of outlet establishment year on sales.
-Impact of Outlet Type on Outlet Sales
+4.Find out the sales of all outlet. 
+5.Impact of Item type on sales.
+6.Find out item visibility impact the outlet sales.
+7.Impact of outlet establishment year on sales.
+8.Impact of Outlet Type on Outlet Sales
 
 
